@@ -1,5 +1,5 @@
 # Pass the Message
-JJunny's JS Projects for Beginners inspired by dev_pani
+What you typed on it is printed on the screen
 
 <p align="center">
 Demo <br>
